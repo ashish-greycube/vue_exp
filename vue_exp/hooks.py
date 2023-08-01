@@ -199,3 +199,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"vue_exp.auth.validate"
 # ]
+
+website_route_rules = [{'from_route': '/frontend/<path:app_path>', 'to_route': 'frontend'},]

@@ -1,0 +1,14 @@
+{
+  "name": "vue_exp",
+  "version": "1.0.0",
+  "description": "vue exp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd frontend && yarn dev",
+    "build": "cd frontend && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
